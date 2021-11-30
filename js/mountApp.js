@@ -1,0 +1,1 @@
+var mountApp=app.mount("#app");
